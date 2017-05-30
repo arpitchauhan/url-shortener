@@ -1,0 +1,2 @@
+class ShortenedUri < ApplicationRecord
+end
